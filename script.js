@@ -109,3 +109,4 @@ function multiplicationTable(maxValue) {
 }
 
 console.log(multiplicationTable(10))
+
